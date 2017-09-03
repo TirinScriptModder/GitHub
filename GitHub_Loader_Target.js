@@ -4,3 +4,6 @@ function main(){
 (function(){
 	main();
 })();
+function newLevel(){
+	clientMessage('読み込めてるよ');
+}
